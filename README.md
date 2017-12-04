@@ -1,3 +1,8 @@
+
+Try this project online
+-----------------------
+https://todoapp-18a3a.firebaseapp.com/
+
 Stack
 -----
 
@@ -12,11 +17,9 @@ Stack
 Quick Start
 -----------
 
-$ npm install
-$ npm start
-
 |Script|Description|
 |---|---|
+|`npm install`|Installs the package dependencies.|
 |`npm start`|Start development server @ `localhost:4200`|
 |`npm run build`|build the application to `./dist`|
 |`npm run lint`|Lint `.ts` files|
